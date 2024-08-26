@@ -1,0 +1,11 @@
+/Users/firdu/HR-ManagementSystem/src/Ui/bin/Debug/net8.0/Ui.deps.json
+/Users/firdu/HR-ManagementSystem/src/Ui/bin/Debug/net8.0/Ui.dll
+/Users/firdu/HR-ManagementSystem/src/Ui/bin/Debug/net8.0/Ui.pdb
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.AssemblyInfoInputs.cache
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.AssemblyInfo.cs
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.csproj.CoreCompileInputs.cache
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.dll
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/refint/Ui.dll
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/Ui.pdb
+/Users/firdu/HR-ManagementSystem/src/Ui/obj/Debug/net8.0/ref/Ui.dll
